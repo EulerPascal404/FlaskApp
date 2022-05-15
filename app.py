@@ -183,3 +183,8 @@ def result():
 
 if __name__ == '__main__':
 	app.run(debug = True,port = 5001)
+# Citations
+# For designing a button, https://www.youtube.com/watch?v=6Xfkr9n3LSA&ab_channel=TheNetNinja
+# MatPlotLib documentation, https://stackoverflow.com/questions/50728328/python-how-to-show-matplotlib-in-flask
+# Designing pie-charts in python, https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f
+# https://www.pythoncharts.com/matplotlib/beautiful-bar-charts-matplotlib/
