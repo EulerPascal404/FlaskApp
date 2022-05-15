@@ -10,3 +10,5 @@ Our model analyzes tweets about the financial topic and gives the user a percent
 
 Note:
    The folder containing the layers of our neural network is very large(around 1.3 GB) so Github does not support the upload of that file. This file only contains the weights so that we don't have to retrain the model each time we use it. Here is the google drive link to the model: https://drive.google.com/drive/folders/1x5egep5UzpogF5WMIyg9OH0X4G5tQrqd
+
+Kaggle Dataset that we used: https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
